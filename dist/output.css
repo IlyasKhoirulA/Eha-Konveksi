@@ -1029,6 +1029,10 @@ video {
   background-image: url('/assets/img/bg-section-gradasi.jpg');
 }
 
+.bg-\[url\(\'\/assets\/img\/bg-section-gradasi\'\)\] {
+  background-image: url('/assets/img/bg-section-gradasi');
+}
+
 .bg-cover {
   background-size: cover;
 }
